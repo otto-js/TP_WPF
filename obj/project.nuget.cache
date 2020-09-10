@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r3FVritiuiffD7OjGKextdYkblonkn/LURw0trETcaidrnpPf3diMalUNbBDokMFewjIxRH3zIjfCiRJl9oNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeremy\\source\\repos\\TP2_Dev_UI_git\\TP2_Dev_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeremy\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\jeremy\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\jeremy\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
